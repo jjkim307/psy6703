@@ -4,7 +4,7 @@ Public syllabus hosting for PSY 6703 (Work Motivation and Emotions), a graduate
 seminar in the Department of Psychology, The University of Oklahoma.
 Instructor: JeongJin Kim, Ph.D.
 
-Student-facing page: https://jjkim307.github.io/psy6703/
+Student-facing page: https://psy6703.jeongjinkim.com/
 
 ## Structure
 
